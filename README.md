@@ -8,14 +8,14 @@ Paper
 
 The simulation is conducted in MATLAB and Python simulation environment.
 
-MATLAB Version 
+MATLAB Version: 
 
 The MATLAB version has two files. They are STC.m and PID.m
 Each file is run individually to generate the results in the paper.
 Users must select the number of control drums to be used during the simulation.
 
 
-Python Version 
+Python Version: 
 The Python version contains a a folder with four files: 
 1. run.py
 2. controller.py
